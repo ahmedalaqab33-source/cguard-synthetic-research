@@ -1,0 +1,10 @@
+participant_id,group,age_years,weight_kg,lab_value,outcome,index_day,lab_day
+SYN-001,A,20,60,10,1,0,-1
+SYN-002,A,40,70,20,0,0,0
+SYN-003,A,60,80,30,1,0,-2
+SYN-004,A,,90,40,,0,0
+SYN-005,B,30,65,15,0,0,-1
+SYN-006,B,50,75,25,1,0,0
+SYN-007,B,70,85,35,0,0,-2
+SYN-008,B,90,95,,,0,0
+

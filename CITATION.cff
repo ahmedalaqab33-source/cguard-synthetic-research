@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Cite the software repository and exact commit; no research DOI is claimed."
+title: "cguard-synthetic-research"
+type: software
+authors:
+  - family-names: Alaqab
+    given-names: Ahmed
+version: 0.2.0
+license: MIT
+repository-code: "https://github.com/ahmedalaqab33-source/cguard-synthetic-research"

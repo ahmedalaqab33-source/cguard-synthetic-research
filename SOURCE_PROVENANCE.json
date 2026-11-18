@@ -1,0 +1,185 @@
+{
+  "schema": "source-provenance/1",
+  "files": [
+    {
+      "path": "src/cguard_research/__init__.py",
+      "original_sha256": "2464b5249010bd91e0b4f47c6b175f194c6f0aed30ef5dea5968d4d94c88428b",
+      "release_sha256": "2464b5249010bd91e0b4f47c6b175f194c6f0aed30ef5dea5968d4d94c88428b",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "src/cguard_research/__main__.py",
+      "original_sha256": "76fa916e93e0ae1a6c1bb51dcc0bcf289c014e9f760a47165f8a84401ccf41d7",
+      "release_sha256": "76fa916e93e0ae1a6c1bb51dcc0bcf289c014e9f760a47165f8a84401ccf41d7",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "src/cguard_research/artifacts.py",
+      "original_sha256": "d6e08c49e707c1b8d9650fd955fdd16167bfc859b2548db8dd78e09a9a4e44ba",
+      "release_sha256": "d6e08c49e707c1b8d9650fd955fdd16167bfc859b2548db8dd78e09a9a4e44ba",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "src/cguard_research/cli.py",
+      "original_sha256": "d953cdac65473b64e8c968190d866cf3c6649a41ba3e0e81b76ffea69a4966fe",
+      "release_sha256": "d953cdac65473b64e8c968190d866cf3c6649a41ba3e0e81b76ffea69a4966fe",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "src/cguard_research/contracts.py",
+      "original_sha256": "50d8cafeaa7de4f8c8d2496b8fa6ffe9c223014382cf951427b6e9410de0f9ac",
+      "release_sha256": "50d8cafeaa7de4f8c8d2496b8fa6ffe9c223014382cf951427b6e9410de0f9ac",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "src/cguard_research/intake.py",
+      "original_sha256": "3fe35383d67c465df376e866521c9cdc5abdafca643113f75aca0ea76102d64a",
+      "release_sha256": "3fe35383d67c465df376e866521c9cdc5abdafca643113f75aca0ea76102d64a",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "src/cguard_research/reporting.py",
+      "original_sha256": "05bfe65c43ba3c12c032a8c23e33ad6541c9f426cf453bf46d345787cbf57205",
+      "release_sha256": "05bfe65c43ba3c12c032a8c23e33ad6541c9f426cf453bf46d345787cbf57205",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "src/cguard_research/resources/cohort.csv",
+      "original_sha256": "c1c8fe11d2e40e4943e6d3ab4735c6db6f8b46ddc6bde99ced4136e3f39deccb",
+      "release_sha256": "c1c8fe11d2e40e4943e6d3ab4735c6db6f8b46ddc6bde99ced4136e3f39deccb",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "src/cguard_research/resources/dictionary.json",
+      "original_sha256": "99d4b4dfc9090b3c93b11eedbb38953f21ee6f9cb65694319b8a5eb518c83672",
+      "release_sha256": "99d4b4dfc9090b3c93b11eedbb38953f21ee6f9cb65694319b8a5eb518c83672",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "src/cguard_research/resources/protocol.json",
+      "original_sha256": "43822df3e508918b5b0be0e23f66ddc6812ba855f74bfbc6cb951b4d5edd3fc7",
+      "release_sha256": "43822df3e508918b5b0be0e23f66ddc6812ba855f74bfbc6cb951b4d5edd3fc7",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "src/cguard_research/resources/skills/clinical_data_quality.md",
+      "original_sha256": "3909f526044cdbe367e9dd3094dc000de24c0c068f37b94d61446b908fc7882d",
+      "release_sha256": "3909f526044cdbe367e9dd3094dc000de24c0c068f37b94d61446b908fc7882d",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "src/cguard_research/resources/skills/missing_data.md",
+      "original_sha256": "0d45f046c348d713b17397a15fd1caa63d1df50853c9e58c0948977b86adc403",
+      "release_sha256": "0d45f046c348d713b17397a15fd1caa63d1df50853c9e58c0948977b86adc403",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "src/cguard_research/resources/skills/reproducibility_reporting.md",
+      "original_sha256": "b1699b3ee99bb79676403443528944b023f47db2c5b0cd99c9e63044a6d26a44",
+      "release_sha256": "b1699b3ee99bb79676403443528944b023f47db2c5b0cd99c9e63044a6d26a44",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "src/cguard_research/resources/skills/statistical_integrity.md",
+      "original_sha256": "9d180534b71d43ec05eff7bd67fbdd247e5155b111d03a6e84f6608b64f355e7",
+      "release_sha256": "9d180534b71d43ec05eff7bd67fbdd247e5155b111d03a6e84f6608b64f355e7",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "src/cguard_research/tools.py",
+      "original_sha256": "6267cd033c9c64c2f103e7dae97d0fddc86ae5dab6746043df21f75019672f8d",
+      "release_sha256": "6267cd033c9c64c2f103e7dae97d0fddc86ae5dab6746043df21f75019672f8d",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "src/cguard_research/validators.py",
+      "original_sha256": "34149f49d7fbe8ea0db81a8091a95da4c6765342920624f652babe5f663e413b",
+      "release_sha256": "34149f49d7fbe8ea0db81a8091a95da4c6765342920624f652babe5f663e413b",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "src/cguard_research/workflow.py",
+      "original_sha256": "94ecdf5141bfd6b93ce5ef00c6da72dea0822a8f3809e880fe6c4d6990242bb3",
+      "release_sha256": "94ecdf5141bfd6b93ce5ef00c6da72dea0822a8f3809e880fe6c4d6990242bb3",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "tests/test_integrity.py",
+      "original_sha256": "1281a6d226bea9a33f8f3252d0989de14334416aea40085d2f939388f116e687",
+      "release_sha256": "1281a6d226bea9a33f8f3252d0989de14334416aea40085d2f939388f116e687",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "tests/test_v02_regressions.py",
+      "original_sha256": "3fb5040460c93f77c01ca7988c0fb28974b4617939af907236ed8c83a1f9665e",
+      "release_sha256": "3fb5040460c93f77c01ca7988c0fb28974b4617939af907236ed8c83a1f9665e",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "tests/test_workflow.py",
+      "original_sha256": "7e69a915a3f8c8aab5f8f54da9905de8e1534664e1fcd3d17e8461bf5278b7e3",
+      "release_sha256": "7e69a915a3f8c8aab5f8f54da9905de8e1534664e1fcd3d17e8461bf5278b7e3",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "pyproject.toml",
+      "original_sha256": "2305d7b9fb6724b5a8fe097ed3f7be5e76f66486217ae17ab27909cf0b661cb2",
+      "release_sha256": "2305d7b9fb6724b5a8fe097ed3f7be5e76f66486217ae17ab27909cf0b661cb2",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "requirements.lock",
+      "original_sha256": "2a41be8d628d62ec3dc6dccc9b5db8e1365081a6ce74c332b84f06cae1475ce3",
+      "release_sha256": "2a41be8d628d62ec3dc6dccc9b5db8e1365081a6ce74c332b84f06cae1475ce3",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "LICENSE",
+      "original_sha256": "c795d2ef05c89339da9e6b558bf62011a8c2a193ebae3b0ac1c685e47fa8b5e0",
+      "release_sha256": "c795d2ef05c89339da9e6b558bf62011a8c2a193ebae3b0ac1c685e47fa8b5e0",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "original_sha256": "f5930c497a9769f581a70c81fb0435da2e9f2a1aea6e703ef948ccfcf7c256f0",
+      "release_sha256": "f5930c497a9769f581a70c81fb0435da2e9f2a1aea6e703ef948ccfcf7c256f0",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "SECURITY.md",
+      "original_sha256": "948f06609f3d4a3d30f4f1ef79ea3926b15469cec66ef1aabc4f5d4b0d24b152",
+      "release_sha256": "948f06609f3d4a3d30f4f1ef79ea3926b15469cec66ef1aabc4f5d4b0d24b152",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "original_sha256": "e9cc4fd5a67389afe40a9742c94498c99468948cd61bad51da676944d42625a7",
+      "release_sha256": "e9cc4fd5a67389afe40a9742c94498c99468948cd61bad51da676944d42625a7",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "docs/architecture.md",
+      "original_sha256": "6721593baa1ba42d9064045fd614c5235ab4ee45b37e2f1b065cf122e5a4e6f0",
+      "release_sha256": "6721593baa1ba42d9064045fd614c5235ab4ee45b37e2f1b065cf122e5a4e6f0",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "docs/threat-model.md",
+      "original_sha256": "9348b6aaecb452f289bd997e02ece447088b245b0d669a2f86e7a0da28a8449a",
+      "release_sha256": "9348b6aaecb452f289bd997e02ece447088b245b0d669a2f86e7a0da28a8449a",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "docs/validation-matrix.md",
+      "original_sha256": "2be679c6f5a96512c78dbfa16d0f04bbee9cee19f2b83106d598f5aa51580b66",
+      "release_sha256": "2be679c6f5a96512c78dbfa16d0f04bbee9cee19f2b83106d598f5aa51580b66",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "path": "docs/provenance.md",
+      "original_sha256": "7acb78b42042cbbd5d5df297e5f6bf460219d5f5e0ef787fda7d39403e2eb3ae",
+      "release_sha256": "7acb78b42042cbbd5d5df297e5f6bf460219d5f5e0ef787fda7d39403e2eb3ae",
+      "changes": "None; byte-preserved"
+    }
+  ]
+}

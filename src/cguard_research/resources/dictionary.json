@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "source_kind": "synthetic",
+  "variables": {
+    "participant_id": {
+      "type": "string",
+      "role": "synthetic_identifier",
+      "pattern": "SYN-[0-9]{3,6}"
+    },
+    "group": {
+      "type": "string",
+      "role": "exposure",
+      "levels": [
+        "A",
+        "B"
+      ]
+    },
+    "age_years": {
+      "type": "number",
+      "units": "years",
+      "bounds": [
+        18,
+        120
+      ],
+      "role": "baseline"
+    },
+    "weight_kg": {
+      "type": "number",
+      "units": "kg",
+      "bounds": [
+        20,
+        300
+      ],
+      "role": "baseline"
+    },
+    "lab_value": {
+      "type": "number",
+      "units": "synthetic units",
+      "bounds": [
+        0,
+        10000
+      ],
+      "role": "baseline"
+    },
+    "outcome": {
+      "type": "integer",
+      "levels": [
+        0,
+        1
+      ],
+      "bounds": [
+        0,
+        1
+      ],
+      "role": "followup_outcome"
+    },
+    "index_day": {
+      "type": "integer",
+      "units": "relative day",
+      "bounds": [
+        -36500,
+        36500
+      ]
+    },
+    "lab_day": {
+      "type": "integer",
+      "units": "relative day",
+      "bounds": [
+        -36500,
+        36500
+      ]
+    }
+  }
+}

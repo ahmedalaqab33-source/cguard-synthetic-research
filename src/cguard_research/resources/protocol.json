@@ -1,0 +1,16 @@
+{
+  "id": "synthetic-cohort-v1",
+  "version": 1,
+  "purpose": "Software validation using invented records; no clinical conclusions",
+  "source_kind": "synthetic",
+  "population": "All records in this fixture represent eligible synthetic adults",
+  "unit_of_analysis": "One record per unique synthetic participant",
+  "exposure": "A or B are synthetic groups with no treatment meaning",
+  "outcome": "Invented binary event during the same fixed follow-up window; blank means unobserved",
+  "missingness": "Available per variable; no imputation; missing outcomes not classified as non-events",
+  "timing": "lab_day must be <= index_day for the baseline laboratory field",
+  "analysis": "Descriptive summaries only; no exclusions or adjustment",
+  "bounds": "Scenario engineering specifications, not clinical reference ranges",
+  "limitations": "Completeness of follow-up, causal effects and real-world validity cannot be inferred",
+  "seed": 0
+}

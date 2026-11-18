@@ -1,0 +1,228 @@
+{
+  "project": "cguard-synthetic-research",
+  "self_policy": "RELEASE_MANIFEST.json explicitly permitted and excluded from its own hashes",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 8,
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
+      "git_blob": "fa1385d99a319b43c06f5309d1aae9fdd3adea46"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 98,
+      "sha256": "6d93c75fe94d6f3b27eafd5be4a52b4539e8256d0f0c382ede768d519a333e0c",
+      "git_blob": "be4144fc2fd701ee99084a3c0ba135564fc244e8"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 1510,
+      "sha256": "f5930c497a9769f581a70c81fb0435da2e9f2a1aea6e703ef948ccfcf7c256f0",
+      "git_blob": "8dd87b83496673dd03fa9617c48da35c53f7286a"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 325,
+      "sha256": "aa75b8db8b0915ba68ba087e3871d4ee21bc4b3d02e5c52d31a95bddaa359fc1",
+      "git_blob": "bbaff257e2d44f478f76f501ca0af3dd3611b70f"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 733,
+      "sha256": "e9cc4fd5a67389afe40a9742c94498c99468948cd61bad51da676944d42625a7",
+      "git_blob": "97a876dd4576e494545dc535bc6edcb817df290f"
+    },
+    {
+      "path": "DATA_AVAILABILITY.md",
+      "bytes": 718,
+      "sha256": "27304778c8607892294944f15687b6855904ff2255970093e817e33c963cdf6c",
+      "git_blob": "3bd577d3d8873299be009b7bc09e3aba748b2540"
+    },
+    {
+      "path": "docs/architecture.md",
+      "bytes": 3588,
+      "sha256": "6721593baa1ba42d9064045fd614c5235ab4ee45b37e2f1b065cf122e5a4e6f0",
+      "git_blob": "a3a63dc7ba282d64b030fcafb21db42f4d558355"
+    },
+    {
+      "path": "docs/provenance.md",
+      "bytes": 2214,
+      "sha256": "7acb78b42042cbbd5d5df297e5f6bf460219d5f5e0ef787fda7d39403e2eb3ae",
+      "git_blob": "c0636202e92fa701aeb2136a321158bc5463ed38"
+    },
+    {
+      "path": "docs/threat-model.md",
+      "bytes": 2228,
+      "sha256": "9348b6aaecb452f289bd997e02ece447088b245b0d669a2f86e7a0da28a8449a",
+      "git_blob": "39d9d23f7d79d99511e926a37ca5786929cc3ec5"
+    },
+    {
+      "path": "docs/validation-matrix.md",
+      "bytes": 2338,
+      "sha256": "2be679c6f5a96512c78dbfa16d0f04bbee9cee19f2b83106d598f5aa51580b66",
+      "git_blob": "fa4082fd1eac13a72ff6a0e3ef7f2b13508a2809"
+    },
+    {
+      "path": "docs/VERIFICATION.md",
+      "bytes": 713,
+      "sha256": "8beead615e4aeb5cf0d472122bd1895229668d46f7f0b0fa63ab761e84fd91a5",
+      "git_blob": "631756a2921a65b4fb926924ce84ebc062f24028"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1070,
+      "sha256": "c795d2ef05c89339da9e6b558bf62011a8c2a193ebae3b0ac1c685e47fa8b5e0",
+      "git_blob": "ac821ab75530592bdf41684eeb25f9f1c322d7cd"
+    },
+    {
+      "path": "pyproject.toml",
+      "bytes": 878,
+      "sha256": "2305d7b9fb6724b5a8fe097ed3f7be5e76f66486217ae17ab27909cf0b661cb2",
+      "git_blob": "980ee9ef585a64e67023dfd5efba46ed02f4dcff"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3955,
+      "sha256": "8e8a112787ead62802b5b36e68da44329e71b8befc3e5d7d5a0afff515d77af1",
+      "git_blob": "d0c6fcb7897244017cc0b65e4c10caa6356c0587"
+    },
+    {
+      "path": "requirements.lock",
+      "bytes": 484,
+      "sha256": "2a41be8d628d62ec3dc6dccc9b5db8e1365081a6ce74c332b84f06cae1475ce3",
+      "git_blob": "c6e7bf789ba7546c2db9c3325f8d2f4bfe8da2ac"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 641,
+      "sha256": "948f06609f3d4a3d30f4f1ef79ea3926b15469cec66ef1aabc4f5d4b0d24b152",
+      "git_blob": "8707cd6131fce9d2911f254baff3ba7d0793effb"
+    },
+    {
+      "path": "SOURCE_PROVENANCE.json",
+      "bytes": 8640,
+      "sha256": "dcc05548c649a0a270c1cb6cfd618d192eed5f41e6fb7a25b31fb4f6d411b6ed",
+      "git_blob": "d1ecf0f5f8fd5f0e68efde80d0e31a630b0a2885"
+    },
+    {
+      "path": "src/cguard_research/__init__.py",
+      "bytes": 90,
+      "sha256": "2464b5249010bd91e0b4f47c6b175f194c6f0aed30ef5dea5968d4d94c88428b",
+      "git_blob": "d5011c7465da5447bd90c2b1ef5dd9fa668ef414"
+    },
+    {
+      "path": "src/cguard_research/__main__.py",
+      "bytes": 49,
+      "sha256": "76fa916e93e0ae1a6c1bb51dcc0bcf289c014e9f760a47165f8a84401ccf41d7",
+      "git_blob": "8f0c1d5f6315c6afe9c6e9e2833ae445325db731"
+    },
+    {
+      "path": "src/cguard_research/artifacts.py",
+      "bytes": 8186,
+      "sha256": "d6e08c49e707c1b8d9650fd955fdd16167bfc859b2548db8dd78e09a9a4e44ba",
+      "git_blob": "a5f53b65b7ed75b297625a0029ebc7dfae674dee"
+    },
+    {
+      "path": "src/cguard_research/cli.py",
+      "bytes": 5438,
+      "sha256": "d953cdac65473b64e8c968190d866cf3c6649a41ba3e0e81b76ffea69a4966fe",
+      "git_blob": "36d18bfe9d05e4b4a5739792a47ad37f891af343"
+    },
+    {
+      "path": "src/cguard_research/contracts.py",
+      "bytes": 2471,
+      "sha256": "50d8cafeaa7de4f8c8d2496b8fa6ffe9c223014382cf951427b6e9410de0f9ac",
+      "git_blob": "72128b32154de6630c843834ee84d9cd17d074dc"
+    },
+    {
+      "path": "src/cguard_research/intake.py",
+      "bytes": 5779,
+      "sha256": "3fe35383d67c465df376e866521c9cdc5abdafca643113f75aca0ea76102d64a",
+      "git_blob": "4c05fdc6c0c4f44ea4c2c0ff07f163ed59c85fb2"
+    },
+    {
+      "path": "src/cguard_research/reporting.py",
+      "bytes": 9689,
+      "sha256": "05bfe65c43ba3c12c032a8c23e33ad6541c9f426cf453bf46d345787cbf57205",
+      "git_blob": "cd5cd1578adb9ab3cd810f286849894c56ca7f23"
+    },
+    {
+      "path": "src/cguard_research/resources/cohort.csv",
+      "bytes": 276,
+      "sha256": "c1c8fe11d2e40e4943e6d3ab4735c6db6f8b46ddc6bde99ced4136e3f39deccb",
+      "git_blob": "e4516e88aa9849370a706b2a89010392b63240f1"
+    },
+    {
+      "path": "src/cguard_research/resources/dictionary.json",
+      "bytes": 1237,
+      "sha256": "99d4b4dfc9090b3c93b11eedbb38953f21ee6f9cb65694319b8a5eb518c83672",
+      "git_blob": "4f83414d61f9c348b405386d8cc31259535c9541"
+    },
+    {
+      "path": "src/cguard_research/resources/protocol.json",
+      "bytes": 944,
+      "sha256": "43822df3e508918b5b0be0e23f66ddc6812ba855f74bfbc6cb951b4d5edd3fc7",
+      "git_blob": "cb885ac19f78af0dffc31822bcb70f704ab21040"
+    },
+    {
+      "path": "src/cguard_research/resources/skills/clinical_data_quality.md",
+      "bytes": 2117,
+      "sha256": "3909f526044cdbe367e9dd3094dc000de24c0c068f37b94d61446b908fc7882d",
+      "git_blob": "e334f1fbb34a713c1997887693763bca12dc2538"
+    },
+    {
+      "path": "src/cguard_research/resources/skills/missing_data.md",
+      "bytes": 1415,
+      "sha256": "0d45f046c348d713b17397a15fd1caa63d1df50853c9e58c0948977b86adc403",
+      "git_blob": "266c6503a3b957c2cebef566b4e303b957182ab6"
+    },
+    {
+      "path": "src/cguard_research/resources/skills/reproducibility_reporting.md",
+      "bytes": 1614,
+      "sha256": "b1699b3ee99bb79676403443528944b023f47db2c5b0cd99c9e63044a6d26a44",
+      "git_blob": "8f08873b075ea0ac76763b840f275b4cab658bbd"
+    },
+    {
+      "path": "src/cguard_research/resources/skills/statistical_integrity.md",
+      "bytes": 1395,
+      "sha256": "9d180534b71d43ec05eff7bd67fbdd247e5155b111d03a6e84f6608b64f355e7",
+      "git_blob": "a40776c325a616af99705444a49c96994bf00bd1"
+    },
+    {
+      "path": "src/cguard_research/tools.py",
+      "bytes": 1881,
+      "sha256": "6267cd033c9c64c2f103e7dae97d0fddc86ae5dab6746043df21f75019672f8d",
+      "git_blob": "b2538f2f15da274df86140287bfea5fc748e10b0"
+    },
+    {
+      "path": "src/cguard_research/validators.py",
+      "bytes": 3393,
+      "sha256": "34149f49d7fbe8ea0db81a8091a95da4c6765342920624f652babe5f663e413b",
+      "git_blob": "701f1f8c9807a3f621c4cdb0d0e0e8cd66ce3674"
+    },
+    {
+      "path": "src/cguard_research/workflow.py",
+      "bytes": 16636,
+      "sha256": "94ecdf5141bfd6b93ce5ef00c6da72dea0822a8f3809e880fe6c4d6990242bb3",
+      "git_blob": "4a5a89d70fb0108bf8941f9cb75217f04a7eda1c"
+    },
+    {
+      "path": "tests/test_integrity.py",
+      "bytes": 3539,
+      "sha256": "1281a6d226bea9a33f8f3252d0989de14334416aea40085d2f939388f116e687",
+      "git_blob": "ca9ac478fcc53a79a7b7a9dd24d97d1187760972"
+    },
+    {
+      "path": "tests/test_v02_regressions.py",
+      "bytes": 10119,
+      "sha256": "3fb5040460c93f77c01ca7988c0fb28974b4617939af907236ed8c83a1f9665e",
+      "git_blob": "28c3509e9b5393b1baa92179ba632deaebead703"
+    },
+    {
+      "path": "tests/test_workflow.py",
+      "bytes": 11312,
+      "sha256": "7e69a915a3f8c8aab5f8f54da9905de8e1534664e1fcd3d17e8461bf5278b7e3",
+      "git_blob": "1a20dc7608ed85e51208c136ab17a74f9f513790"
+    }
+  ]
+}
